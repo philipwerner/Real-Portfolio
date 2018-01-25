@@ -1,0 +1,3 @@
+[run]
+source = real_portfolio
+omit = real_portfolio/test*
